@@ -52,5 +52,24 @@ header {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+.news-article h3 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.news-article p {
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: white;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+}
+
 
 
