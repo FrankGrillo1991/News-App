@@ -24,3 +24,10 @@ header {
     flex: 3;
 }
 
+.sidebar {
+    flex: 1;
+    background-color: #eee;
+    padding: 15px;
+    border-radius: 5px;
+}
+
