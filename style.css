@@ -71,5 +71,15 @@ footer {
     width: 100%;
 }
 
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Stack elements on smaller screens */
+    }
 
+    .sidebar {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
 
