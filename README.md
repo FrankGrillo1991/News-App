@@ -1,0 +1,1 @@
+Responsive News App developed with HTML, CSS & JavaScript
